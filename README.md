@@ -28,7 +28,14 @@ Check out the deployed version here: https://react-draggable-nav.netlify.app/
 
 - **Context Menu:**  
   Right-click on pages to open a contextual options menu.  
-  If a page is selected, an ellipsis icon appears — clicking it also opens the menu.
+  If a page is selected, an ellipsis icon appears — clicking it also opens the menu.  
+
+  The menu includes the following options:  
+  - **Set as First Page:** Make the selected page the first in the navigation order.  
+  - **Rename:** Change the name/label of the selected page.  
+  - **Copy:** Create a duplicate of the selected page with the same content.  
+  - **Duplicate:** Quickly create an identical page next to the original.  
+  - **Delete:** Remove the selected page from the navigation bar.
 
 - **Responsive & Scrollable:**  
   Horizontal scroll with hidden scrollbar for small screens.
